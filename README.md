@@ -1,4 +1,11 @@
-### Hi there 👋
+![Gif of a toon ocean](https://user-images.githubusercontent.com/4225330/87048276-0e52bc80-c1eb-11ea-8d03-90630ec2fe18.gif)
+
+### Hi! I'm Ada Rose Cannon
+
+- 🔭 I'm a developer advocate for the Web Browser, [Samsung Internet](https://twitter.com/samsunginternet). I'm also co-chair of the W3C Immersive Web Groups which are developing the WebXR device API.
+- 💬 Ask me about VR or AR on the Web
+- ⚡ I like building demos 
+
 
 <!--
 **AdaRoseCannon/AdaRoseCannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

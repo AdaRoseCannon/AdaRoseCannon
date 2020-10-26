@@ -1,4 +1,4 @@
-[![Gif of a toon ocean](https://user-images.githubusercontent.com/4225330/87048276-0e52bc80-c1eb-11ea-8d03-90630ec2fe18.gif)](https://a-toon-ocean.glitch.me)
+[![A video recording of CG fish swimming through a forest](https://user-images.githubusercontent.com/4225330/97163148-17ef3880-1778-11eb-9456-27450bea5b4e.gif)](https://koi-garden.glitch.me/)
 
 ### Hi! I'm Ada Rose Cannon
 

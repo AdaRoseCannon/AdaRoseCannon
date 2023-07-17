@@ -2,7 +2,7 @@
 
 ### Hi! I'm Ada Rose Cannon
 
-- 🔭 I'm a developer advocate for the Web Browser, [Samsung Internet](https://twitter.com/samsunginternet). I'm also co-chair of the W3C Immersive Web Groups which are developing the WebXR device API.
+- 🔭 AR VR at Apple, I'm also co-chair of the W3C Immersive Web Groups which are developing the WebXR device API.
 - 💬 Ask me about VR or AR on the Web
 - ⚡ I like building demos 
 
